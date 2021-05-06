@@ -1,0 +1,6 @@
+[package]
+name = "doc_testing"
+version = "0.1.0"
+authors = ["Maxim Komar"]
+
+[dependencies]
