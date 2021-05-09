@@ -147,6 +147,7 @@ impl<T> DoubleEndedIterator for IntoIter<T> {
 mod test {
     use super::List;
 
+    #[test]
     fn basics() {
         let mut list = List::new();
 
